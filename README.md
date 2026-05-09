@@ -30,6 +30,6 @@
 <br>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TU_USUARIO_DE_GITHUB&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ParkerPiter&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ParkerPiter&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="195" />
 </p>
